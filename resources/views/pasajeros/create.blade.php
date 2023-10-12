@@ -13,7 +13,7 @@
 
     <div>
         <label>Email:</label>
-        <input type="text" name="documento" value="{{ old('documento') }}">
+        <input type="text" name="email" value="{{ old('email') }}">
     </div>
 
     <div>
